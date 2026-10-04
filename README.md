@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mafuyu_137)
+
+<!-- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mafuyu_137) -->
+
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mafuyu_137" alt="Estadisticas de un usuario de la plataforma de Codeforces " />
+</div>
