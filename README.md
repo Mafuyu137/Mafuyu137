@@ -1,4 +1,4 @@
-## Hi there 👋
+<div align = "center"> <h1> ❄ Mafuyu's Profile ❄ </h1> </div>
 
 <!--
 **Mafuyu137/Mafuyu137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mafuyu_137) -->
+### About me
+From Pachuca, Hidalgo, to the world.
+
+- Computer Science student
+- well... yeah
+
+### CP statistics
 
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Mafuyu_137" alt="Estadisticas de un usuario de la plataforma de Codeforces " />
