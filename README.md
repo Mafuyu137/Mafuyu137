@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://codeforces.com/profile/Mafuyu_137">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/Codeforces2.png?raw=true" height="25" alt="Codeforces">
+</a>
+
+<a href="https://omegaup.com/profile/Mafuyu137/">
+  <img src="https://github.com/IgnacioBenitez/IgnacioBenitez/blob/main/imagesSocialMedia/OmegaUp.png?raw=true" height="25" alt="OmegaUp">
+</a>
